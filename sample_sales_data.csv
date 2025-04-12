@@ -1,0 +1,7 @@
+Order ID,Order Date,Customer Name,Gender,Country,Product,Category,Quantity,Price,Total
+1001,12/01/2023,Alice Smith,Female,United States,Laptop,Electronics,1,899.99,899.99
+1002,13/01/2023,Bob Johnson,male,U.S.A,Mouse,Electronics,2,25.0,50.0
+1003,,Carol Lee,FEMALE,USA,Keyboard,Electronics,1,45.0,45.0
+1004,15/01/2023,David Kim,Male,United States,Monitor,Electronics,1,200.0,200.0
+1004,15/01/2023,David Kim,Male,United States,Monitor,Electronics,1,200.0,200.0
+1005,17/01/2023,Eva Brown,Female,Canada,Desk Chair,Furniture,1,150.0,150.0
